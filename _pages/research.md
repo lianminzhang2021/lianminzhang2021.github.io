@@ -49,8 +49,6 @@ redirect_from:
 ### Working Papers
 \*	Assortment Optimization under Nested Markov Chain Model.(with Y.Liu, W.Ynag, Z.Wang) <br/>
 \*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
-\*	How Pricing interacts with Return Insurance in Dual-channel Retailing. (with H.Chen, R.Mao, H.Shen) <br/> 
-\*	Concealment versus Disclosure in Competitions with Type-dependent Favoritism. (with B.Chen, P.Bai, J.Lu) <br/> 
 \*	Online Recommendation Algorithms with Uncertain Customer Preferences: Balancing Revenue and Consumer Utility(with X.Zhang, W.Dai, X.Cai) <br/> 
 \*	Omnichannel retailing with Buy Online Pickup in Store under capacity constraint(with Z.Liu, H.Chen, H.Zhang, Y.Chen) <br/> 
 \*	Price Distance Effect: Pricing and Assortment Problem under MNL Choice Model(with Y.Xiao, K.Nip, Z.Wang) <br/> 
