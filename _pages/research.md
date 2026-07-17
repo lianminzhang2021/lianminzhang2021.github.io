@@ -15,6 +15,7 @@ redirect_from:
 [\*].	The Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment, Pricing and Estimation.Forchcoming at **Manufacturing & Service Operations Management**. (with L.Guan, K.Nie, R.Wang)<br/><br/>
 [\*].	Multi-portfolio Optimization：A Fairness-aware Target-oriented Model. **Manufacturing & Service Operations Management**, 26(3), 952-971, 2024.(with G.Yu, X.Cai, D.Long)<br/><br/>
 [\*].	Distributionally Robust Newsvendor under Stochastic Dominance with a Feature-Based Application. **Manufacturing & Service Operations Management**, 26(5), 1962-1977, 2024.(with M. Fu, X.Li)<br/><br/>
+[\*]. Two-Stage Newsvendor Network Problem: A Data-driven Distributionally Robust Optimization Approach, **Production and Operations Management**, Accept.(with D.Zhang, H.Turan, R.Sarker, D.Essam, S.Dai)<br/><br/>
 [\*]. Target-based Inventory Pooling Problem. **Production and Operations Management**, 32, 1187-1204, 2023.(with Z.Cui, J.Ding, D. Long)<br/><br/>
 [\*]. Cost Sharing for Capacity Transfer in Cooperating Queueing Systems, **Production and Operations Management**, 27(4), 644-662, 2018.(with Y.Zeng, X.Cai, J.Li)<br/><br/>
 [\*]. Price Optimization for a Multi-Stage Choice Model. **Production and Operations Management**, 37(7), 1535-1551, 2024.(with J.Shi, G.Ke, Z.Wang)<br/><br/>
@@ -38,7 +39,7 @@ redirect_from:
 
 ### Working Papers
 \*	Assortment Optimization under Nested Markov Chain Model.(with Y.Liu, W.Ynag, Z.Wang) <br/>
-\*	Price and Quality Optimization with the Intertemporal Reference Price Effect. (with L.Li, G.Ke, M.Li) <br/> 
+\*	Quality and Price Optimization Under a Multi-Attribute Reference-Dependent Choice Model. (with L.Li, G.Ke, M.Li) <br/> 
 \*	Online Recommendation Algorithms with Uncertain Customer Preferences: Balancing Revenue and Consumer Utility(with X.Zhang, W.Dai, X.Cai) <br/> 
 \*	Omnichannel retailing with Buy Online Pickup in Store under capacity constraint(with Z.Liu, H.Chen, H.Zhang, Y.Chen) <br/> 
 \*	Price Distance Effect: Pricing and Assortment Problem under MNL Choice Model(with Y.Xiao, K.Nip, Z.Wang) <br/> 
