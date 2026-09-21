@@ -24,10 +24,13 @@ redirect_from:
 [\*]. Adjustable target-oriented robust optimization for inventory management, **Naval Research Logistics**, 73,268–290, 2026.(with D.Zhang, R.Leus, G.Song)<br/><br/>
 [\*]. Token Sales Design in Initial Coin Offerings under Network Effect. **Naval Research Logistics**,71, 1171-1202, 2024. (with Z.Liu, X.Cai, F.Xu)<br/><br/> 
 [\*]. Pricing Optimization and Competition under the Linear Nested Stochastic Choice Model, **Naval Research Logistics**. 69(2), 201-222,2022. (with L.Li, M.Li, G.Ke)<br/><br/>
-[\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
-[\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*]. Target-oriented Location-transportation Problem with Service-level Measure. **Transportation Research Part B: Methodological**. 153, 1-20,2021. (with X.Wang, Y.Kuo, H.Shen)<br/><br/>
 [\*]. Optimal Purchasing Policy for Fresh Products from Multiple Supply Sources with Considerations of Random Delivery Times, Risk, and Information, **Decision Sciences**. 51(6), 1377-1410,2020.(with X.Xu, X.Cai)<br/><br/>
+[\*]. When the Lowest Reference Price Shapes Assortment Competition: A Multinomial Logit Framework, **Operations Research Letters**, 67, 1-7, 107445, 2026.(with L.Wang, K.Nip, M.Li)<br/><br/>
+[\*]. Multi -product pricing under the 𝑞-generalized logit model, **Operations Research Letters**. 65, 107405, March 2026.(with W.Yang, L.Li, W.Yang)<br/><br/>
+[\*]. Incentive-Compatible Cost Allocations for Inventory Games with Private Information. Operations Research Letters，53(107073), 1-8, 2024.(with Y.Zeng, S.Wang, X.Cai)<br/><br/>
+[\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
+[\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
 [\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
 [\*] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
