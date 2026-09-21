@@ -32,15 +32,13 @@ redirect_from:
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
 [\*].Target-based Distributionally Robust Minimum Spanning Tree Problem. **European Journal of Operational Research**,332, 191–208, 2026.(with Y.Xu, G.Ke, R.Li)<br/><br/>
-[\*].Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European [\*].Journal of Operational Research**. 299, 420-431, 2022.(with Z.Pei, H.Lu, Q.Jin)<br/><br/>
+[\*].Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**. 299, 420-431, 2022.(with Z.Pei, H.Lu, Q.Jin)<br/><br/>
  [\*]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
  [\*]. On-Demand Meal Delivery: Drone Scheduling with Battery Replacement Optimization. **Computer and Operations Research**. 185, 1-24, 107295, 2026.(withW.Liu, Y.He, G.Ke)<br/><br/>
  [\*]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
-[\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
-[\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
-[\*] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
-[\*]. Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. 29(2), 760-782, 2022. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
-
+[\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**.60(22), 6728-6749. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
+[\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**,61(16), 5468-5482, 2023 (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
+[\*].	Keep It or Give Back? Optimal Pricing Strategy of Reward-based Crowdfunding with Hybrid Mechanism, **International Journal of Production Research**. 58(22), 6868-6889, 2020.(with L.Guan, Y.Mu, X.Xu, J.Zhuang) <br/><br/>
 [\*]. The Ramsey Numbers for Cycles versus Wheels of Even Order. **European Journal of Combinatorics**, 31(1), 254-259, 2010.(with Y.Chen, E.Cheng)<br/>
 
 ### Book Chapter
