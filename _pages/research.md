@@ -40,9 +40,9 @@ redirect_from:
 [\*].	Scheduling with Stochastic Approaches. In **Sequencing and Scheduling with Inaccurate Data**, Editors: Yuri N. Sotskov and Frank Werner, Nova Science, 2013. (with X.Cai, X.Wu, X.Zhou)<br/>
 
 ### Working Papers
-\*	Assortment Optimization under Nested Markov Chain Model.(with Y.Liu, W.Ynag, Z.Wang) <br/>
-R3.	Lixiang Li, Min Li, Kameng Nip, Yangyang Peng, Lianmin Zhang, Quality and Price Optimization Under a Multi-Attribute Reference-Dependent Choice Model, Naval Research Logistics, Under minor revision.
-\*	Quality and Price Optimization Under a Multi-Attribute Reference-Dependent Choice Model. (with L.Li, G.Ke, M.Li) <br/> 
+\*	Assortment Optimization under the Nested Markov Chain Choice Model.(with Y.Liu, W.Yang, Z.Wang)<br/>
+\*	Quality and Price Optimization Under a Multi-Attribute Reference-Dependent Choice Model. (with L.Li, M.Li, K.Nip, Y.Peng) <br/> 
 \*	Online Recommendation Algorithms with Uncertain Customer Preferences: Balancing Revenue and Consumer Utility(with X.Zhang, W.Dai, X.Cai) <br/> 
 \*	Omnichannel retailing with Buy Online Pickup in Store under capacity constraint(with Z.Liu, H.Chen, H.Zhang, Y.Chen) <br/> 
-\*	Price Distance Effect: Pricing and Assortment Problem under MNL Choice Model(with Y.Xiao, K.Nip, Z.Wang) <br/> 
+\*	Price Distance Effect: Pricing and Assortment Problem under MNL Choice Model(with Y.Xiao, K.Nip, H.Zhang) <br/> 
+\*	A Lifting-and-Splitting Framework for Risk-Averse Distributionally Robust Multi-Item Newsvendor Problems. (with Y.Liu, S.Gao, Z.Zheng),<br/> 
