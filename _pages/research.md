@@ -31,12 +31,14 @@ redirect_from:
 [\*]. Incentive-Compatible Cost Allocations for Inventory Games with Private Information. **Operations Research Letters**，53(107073), 1-8, 2024.(with Y.Zeng, S.Wang, X.Cai)<br/><br/>
 [\*]. Population Monotonic Allocation Schemes for the Two-Period Economic Lot-Sizing Games, **Operations Research Letters**,51, 296-303, 2023.(with Q.Jin, Y.Wu, Y.Zeng)<br/><br/>
 [\*]. Pricing Optimization under the Extended Nested Logit Model.  **Operations Research Letters**. 51, 54-59，2023.(with L.Li, M.Li, H.Zhang) <br/><br/>
+[\*].Target-based Distributionally Robust Minimum Spanning Tree Problem. **European Journal of Operational Research**,332, 191–208, 2026.(with Y.Xu, G.Ke, R.Li)<br/><br/>
+[\*].Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European [\*].Journal of Operational Research**. 299, 420-431, 2022.(with Z.Pei, H.Lu, Q.Jin)<br/><br/>
+ [\*]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
 [\*].	Target-based Parallel machine total weighted completion time. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Li, Y.Kuo, R.Li, H.Shen)<br/><br/>
 [\*].	Demand Forecasts with Judgement Bias in a Newsvendor Problem. **International Journal of Production Research**. Forthcoming. 2022. (with Y.Zheng, J.Li, Q.Fu)<br/><br/>
 [\*] Target-based Distributionally Robust Optimization for Single Machine Scheduling. **European Journal of Operational Research**.299, 420-431, 2022. (with H.Lu, Z.Pei, Q.Jin)<br/><br/>
 [\*]. Balancing the Profit and Capacity under Uncertainties: A Target-based Distributionally Robust Knapsack Problem. **International Transaction of Operations Research**. 29(2), 760-782, 2022. (with J.Ding, L.Chen, G.Ke, Y.Li)<br/><br/>
 [\*]. Revenue Sharing for Resource Transfer among Projects, **Computer and Operations Research**. 127, 105156, 1-14, 2021.(with X.Lin, X.Cai, J.Zhou, Y.Zeng)<br/><br/>
-[\*]. Heterogeneous Suppliers’ Contract Design in Assembly Systems with Asymmetric Information. **European Journal of Operational Research**. 286, 140-163, 2020. (with Y.Lan, X.Cai, C.Shang, R.Zhao)<br/><br/>
 [\*]. The Ramsey Numbers for Cycles versus Wheels of Even Order. **European Journal of Combinatorics**, 31(1), 254-259, 2010.(with Y.Chen, E.Cheng)<br/>
 
 ### Book Chapter
